@@ -1,7 +1,6 @@
-- Hi, I’m @AYPTataU
-- I’m interested in Computer Vision
-- I’m currently learning Distillation & Quantization
-- I’m looking to collaborate on stuff related to AI
+- Hi, I’m Ayyappa Tata.
+- I’m interested in developing stuff that helps me and pays me.
+- I’m looking to collaborate Kaggle Competitions & any interesting ideas.
 
 
 
